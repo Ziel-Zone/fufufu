@@ -10,10 +10,10 @@
                 <div class="ml-10 flex items-baseline space-x-4">
                   <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
                   <x-nav-link href="/" :active="request()->is('/')">Dashboard</x-nav-link>
-                  <x-nav-link href="/books" :active="request()->is('books')">books</x-nav-link>
-                  <a href="/transactions" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Transaction</a>
-                  <a href="/community" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Community</a>
-                  <a href="leaderboard" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Event</a>
+                  <x-nav-link href="/books" :active="request()->is('books')">Books</x-nav-link>
+                  <x-nav-link href="/transactions" :active="request()->is('transactions')">Transactions</x-nav-link>
+                  <x-nav-link href="/blogfeed" :active="request()->is('blogfeed')">Blog Feed</x-nav-link>
+                  <x-nav-link href="/event" :active="request()->is('event')">Event</x-nav-link>
                 </div>
               </div>
             </div>
