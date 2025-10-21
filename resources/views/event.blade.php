@@ -87,26 +87,26 @@
         }
     </style>
 </head>
-<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-white antialiased">
+<body class="bg-gray-100 text-gray-900 antialiased">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <header class="mb-8">
-            <h1 class="text-3xl font-bold text-gray-900 dark:text-white">Event & Kalender Perpustakaan</h1>
-            <p class="text-gray-600 dark:text-gray-400 mt-2">Ikuti terus acara menarik dan pantau tanggal pengembalian buku Anda.</p>
+            <h1 class="text-3xl font-bold text-gray-900">Event & Kalender Perpustakaan</h1>
+            <p class="text-gray-600 mt-2">Ikuti terus acara menarik dan pantau tanggal pengembalian buku Anda.</p>
         </header>
 
         <section class="mb-10">
-            <h2 class="text-2xl font-semibold text-gray-900 dark:text-white mb-4">Acara Mendatang</h2>
+            <h2 class="text-2xl font-semibold text-gray-900 mb-4">Acara Mendatang</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div class="bg-white dark:bg-gray-800/70 backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 dark:border-gray-700 overflow-hidden flex flex-col group">
+                <div class="bg-white backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 overflow-hidden flex flex-col group">
                     <a href="#" class="block">
                         <img src="https://placehold.co/600x300/4f46e5/ffffff?text=Diskusi+Buku+Mingguan" alt="Diskusi Buku Mingguan" class="w-full h-48 object-cover group-hover:opacity-90 transition-opacity">
                     </a>
                     <div class="p-4 flex flex-col flex-grow">
-                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">
                             <a href="#">Diskusi Buku Mingguan: "Filosofi Teras"</a>
                         </h3>
-                        <p class="text-sm text-gray-500 dark:text-gray-400 mb-2"><i class="fas fa-calendar-alt mr-2"></i> Setiap Rabu, 19:00 WIB</p>
-                        <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mb-3 flex-grow">
+                        <p class="text-sm text-gray-500 mb-2"><i class="fas fa-calendar-alt mr-2"></i> Setiap Rabu, 19:00 WIB</p>
+                        <p class="text-sm text-gray-600 leading-relaxed mb-3 flex-grow">
                             Mari bergabung dalam diskusi santai namun mendalam mengenai buku "Filosofi Teras" karya Henry Manampiring.
                         </p>
                         <div class="mt-auto">
@@ -117,16 +117,16 @@
                     </div>
                 </div>
 
-                <div class="bg-white dark:bg-gray-800/70 backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 dark:border-gray-700 overflow-hidden flex flex-col group">
+                <div class="bg-white backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 overflow-hidden flex flex-col group">
                     <a href="#" class="block">
                         <img src="https://placehold.co/600x300/10b981/ffffff?text=Workshop+Menulis+Kreatif" alt="Workshop Menulis Kreatif" class="w-full h-48 object-cover group-hover:opacity-90 transition-opacity">
                     </a>
                     <div class="p-4 flex flex-col flex-grow">
-                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">
                             <a href="#">Workshop Menulis Kreatif: Mengembangkan Karakter</a>
                         </h3>
-                        <p class="text-sm text-gray-500 dark:text-gray-400 mb-2"><i class="fas fa-calendar-alt mr-2"></i> Sabtu, 15 Juni 2025, 10:00 - 12:00 WIB</p>
-                        <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mb-3 flex-grow">
+                        <p class="text-sm text-gray-500 mb-2"><i class="fas fa-calendar-alt mr-2"></i> Sabtu, 15 Juni 2025, 10:00 - 12:00 WIB</p>
+                        <p class="text-sm text-gray-600 leading-relaxed mb-3 flex-grow">
                             Ikuti workshop intensif tentang cara mengembangkan karakter yang kuat dan menarik dalam cerita Anda.
                         </p>
                         <div class="mt-auto">
@@ -137,16 +137,16 @@
                     </div>
                 </div>
 
-                <div class="bg-white dark:bg-gray-800/70 backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 dark:border-gray-700 overflow-hidden flex flex-col group">
+                <div class="bg-white backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 overflow-hidden flex flex-col group">
                     <a href="#" class="block">
                         <img src="https://placehold.co/600x300/f59e0b/ffffff?text=Sesi+Bedah+Buku+Bulanan" alt="Sesi Bedah Buku Bulanan" class="w-full h-48 object-cover group-hover:opacity-90 transition-opacity">
                     </a>
                     <div class="p-4 flex flex-col flex-grow">
-                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+                        <h3 class="text-lg font-semibold text-gray-900 mb-2 group-hover:text-blue-600 transition-colors">
                             <a href="#">Bedah Buku Bulanan: "Homo Deus"</a>
                         </h3>
-                        <p class="text-sm text-gray-500 dark:text-gray-400 mb-2"><i class="fas fa-calendar-alt mr-2"></i> Minggu, 30 Juni 2025, 14:00 WIB</p>
-                        <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed mb-3 flex-grow">
+                        <p class="text-sm text-gray-500 mb-2"><i class="fas fa-calendar-alt mr-2"></i> Minggu, 30 Juni 2025, 14:00 WIB</p>
+                        <p class="text-sm text-gray-600 leading-relaxed mb-3 flex-grow">
                             Mari kita telaah bersama ide-ide provokatif dalam buku "Homo Deus" karya Yuval Noah Harari.
                         </p>
                         <div class="mt-auto">
@@ -160,8 +160,8 @@
         </section>
 
         <section>
-            <h2 class="text-2xl font-semibold text-gray-900 dark:text-white mb-4">Kalender Event & Pengembalian Buku</h2>
-            <div class="bg-white dark:bg-gray-800/70 backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 dark:border-gray-700 p-6">
+            <h2 class="text-2xl font-semibold text-gray-900 mb-4">Kalender Event & Pengembalian Buku</h2>
+            <div class="bg-white backdrop-blur-sm shadow-lg rounded-xl border border-gray-200 p-6">
                 <div id="eventCalendar"></div>
             </div>
         </section>
